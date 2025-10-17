@@ -1,3 +1,5 @@
+#!/usr/bin/env -S .venv/bin/python
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
