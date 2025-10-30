@@ -39,3 +39,8 @@ python estatistica.py
 ## Criação dos dados
 
 O arquivo [consulta_usuarios.sql](consulta_usuarios.sql) contém os comandos SQL necessários para a criação do arquivo `usuarios_centro.json`, que é utilizado para a criação do gráfico de distribuição de usuários por centro.
+
+## Dados para teste
+
+Na pasta `dados_teste` contém os arquivos JSON
+necessários para a execução do script. Esses arquivos podem ser copiados para a pasta `dados` para que possam ser executados no script.

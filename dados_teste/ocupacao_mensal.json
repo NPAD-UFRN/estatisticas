@@ -1,0 +1,298 @@
+[
+{"ano": 2023, "mes": 12, "particao": "amd-512", "jobs": 28, "media_espera_segundos": 72913, "media_espera_formatado": "20h 15m 13s", "media_execucao_segundos": 449221, "media_execucao_formatado": "5d 4h 47m 1s"}
+,
+{"ano": 2023, "mes": 12, "particao": "gpu-4-a100", "jobs": 1, "media_espera_segundos": 205733, "media_espera_formatado": "2d 9h 8m 53s", "media_execucao_segundos": 55449, "media_execucao_formatado": "15h 24m 9s"}
+,
+{"ano": 2023, "mes": 12, "particao": "intel-128", "jobs": 6, "media_espera_segundos": 0, "media_espera_formatado": "0s", "media_execucao_segundos": 316972, "media_execucao_formatado": "3d 16h 2m 52s"}
+,
+{"ano": 2023, "mes": 12, "particao": "intel-512", "jobs": 1, "media_espera_segundos": 0, "media_espera_formatado": "0s", "media_execucao_segundos": 864029, "media_execucao_formatado": "10d 29s"}
+,
+{"ano": 2024, "mes": 1, "particao": "amd-512", "jobs": 4432, "media_espera_segundos": 12700, "media_espera_formatado": "3h 31m 40s", "media_execucao_segundos": 22828, "media_execucao_formatado": "6h 20m 28s"}
+,
+{"ano": 2024, "mes": 1, "particao": "gpu-4-a100", "jobs": 44, "media_espera_segundos": 325813, "media_espera_formatado": "3d 18h 30m 13s", "media_execucao_segundos": 47428, "media_execucao_formatado": "13h 10m 28s"}
+,
+{"ano": 2024, "mes": 1, "particao": "gpu-8-v100", "jobs": 952, "media_espera_segundos": 697, "media_espera_formatado": "11m 37s", "media_execucao_segundos": 13268, "media_execucao_formatado": "3h 41m 8s"}
+,
+{"ano": 2024, "mes": 1, "particao": "intel-128", "jobs": 5564, "media_espera_segundos": 4153, "media_espera_formatado": "1h 9m 13s", "media_execucao_segundos": 3672, "media_execucao_formatado": "1h 1m 12s"}
+,
+{"ano": 2024, "mes": 1, "particao": "intel-256", "jobs": 87, "media_espera_segundos": 1, "media_espera_formatado": "1s", "media_execucao_segundos": 30209, "media_execucao_formatado": "8h 23m 29s"}
+,
+{"ano": 2024, "mes": 1, "particao": "intel-512", "jobs": 362, "media_espera_segundos": 4696, "media_espera_formatado": "1h 18m 16s", "media_execucao_segundos": 16078, "media_execucao_formatado": "4h 27m 58s"}
+,
+{"ano": 2024, "mes": 2, "particao": "amd-512", "jobs": 1334, "media_espera_segundos": 1376, "media_espera_formatado": "22m 56s", "media_execucao_segundos": 30749, "media_execucao_formatado": "8h 32m 29s"}
+,
+{"ano": 2024, "mes": 2, "particao": "gpu-4-a100", "jobs": 129, "media_espera_segundos": 21752, "media_espera_formatado": "6h 2m 32s", "media_execucao_segundos": 15017, "media_execucao_formatado": "4h 10m 17s"}
+,
+{"ano": 2024, "mes": 2, "particao": "gpu-8-v100", "jobs": 486, "media_espera_segundos": 1319, "media_espera_formatado": "21m 59s", "media_execucao_segundos": 11639, "media_execucao_formatado": "3h 13m 59s"}
+,
+{"ano": 2024, "mes": 2, "particao": "intel-128", "jobs": 3908, "media_espera_segundos": 2781, "media_espera_formatado": "46m 21s", "media_execucao_segundos": 5420, "media_execucao_formatado": "1h 30m 20s"}
+,
+{"ano": 2024, "mes": 2, "particao": "intel-256", "jobs": 266, "media_espera_segundos": 7015, "media_espera_formatado": "1h 56m 55s", "media_execucao_segundos": 10770, "media_execucao_formatado": "2h 59m 30s"}
+,
+{"ano": 2024, "mes": 2, "particao": "intel-512", "jobs": 191, "media_espera_segundos": 47587, "media_espera_formatado": "13h 13m 7s", "media_execucao_segundos": 69249, "media_execucao_formatado": "19h 14m 9s"}
+,
+{"ano": 2024, "mes": 3, "particao": "amd-512", "jobs": 2363, "media_espera_segundos": 10754, "media_espera_formatado": "2h 59m 14s", "media_execucao_segundos": 32849, "media_execucao_formatado": "9h 7m 29s"}
+,
+{"ano": 2024, "mes": 3, "particao": "fpga-3-u50", "jobs": 7, "media_espera_segundos": 4, "media_espera_formatado": "4s", "media_execucao_segundos": 0, "media_execucao_formatado": "0s"}
+,
+{"ano": 2024, "mes": 3, "particao": "gpu-4-a100", "jobs": 184, "media_espera_segundos": 2982, "media_espera_formatado": "49m 42s", "media_execucao_segundos": 8170, "media_execucao_formatado": "2h 16m 10s"}
+,
+{"ano": 2024, "mes": 3, "particao": "gpu-8-v100", "jobs": 851, "media_espera_segundos": 43451, "media_espera_formatado": "12h 4m 11s", "media_execucao_segundos": 10264, "media_execucao_formatado": "2h 51m 4s"}
+,
+{"ano": 2024, "mes": 3, "particao": "intel-128", "jobs": 9895, "media_espera_segundos": 6276, "media_espera_formatado": "1h 44m 36s", "media_execucao_segundos": 8382, "media_execucao_formatado": "2h 19m 42s"}
+,
+{"ano": 2024, "mes": 3, "particao": "intel-256", "jobs": 410, "media_espera_segundos": 3110, "media_espera_formatado": "51m 50s", "media_execucao_segundos": 42664, "media_execucao_formatado": "11h 51m 4s"}
+,
+{"ano": 2024, "mes": 3, "particao": "intel-512", "jobs": 869, "media_espera_segundos": 40515, "media_espera_formatado": "11h 15m 15s", "media_execucao_segundos": 29647, "media_execucao_formatado": "8h 14m 7s"}
+,
+{"ano": 2024, "mes": 4, "particao": "amd-512", "jobs": 8504, "media_espera_segundos": 5980, "media_espera_formatado": "1h 39m 40s", "media_execucao_segundos": 14763, "media_execucao_formatado": "4h 6m 3s"}
+,
+{"ano": 2024, "mes": 4, "particao": "fpga-3-u50", "jobs": 46, "media_espera_segundos": 0, "media_espera_formatado": "0s", "media_execucao_segundos": 5, "media_execucao_formatado": "5s"}
+,
+{"ano": 2024, "mes": 4, "particao": "gpu-4-a100", "jobs": 125, "media_espera_segundos": 24939, "media_espera_formatado": "6h 55m 39s", "media_execucao_segundos": 7820, "media_execucao_formatado": "2h 10m 20s"}
+,
+{"ano": 2024, "mes": 4, "particao": "gpu-8-v100", "jobs": 880, "media_espera_segundos": 48351, "media_espera_formatado": "13h 25m 51s", "media_execucao_segundos": 4752, "media_execucao_formatado": "1h 19m 12s"}
+,
+{"ano": 2024, "mes": 4, "particao": "intel-128", "jobs": 4058, "media_espera_segundos": 13861, "media_espera_formatado": "3h 51m 1s", "media_execucao_segundos": 10269, "media_execucao_formatado": "2h 51m 9s"}
+,
+{"ano": 2024, "mes": 4, "particao": "intel-256", "jobs": 90, "media_espera_segundos": 4321, "media_espera_formatado": "1h 12m 1s", "media_execucao_segundos": 25532, "media_execucao_formatado": "7h 5m 32s"}
+,
+{"ano": 2024, "mes": 4, "particao": "intel-512", "jobs": 29397, "media_espera_segundos": 154, "media_espera_formatado": "2m 34s", "media_execucao_segundos": 491, "media_execucao_formatado": "8m 11s"}
+,
+{"ano": 2024, "mes": 5, "particao": "amd-512", "jobs": 61889, "media_espera_segundos": 2056, "media_espera_formatado": "34m 16s", "media_execucao_segundos": 3086, "media_execucao_formatado": "51m 26s"}
+,
+{"ano": 2024, "mes": 5, "particao": "fpga-3-u50", "jobs": 10, "media_espera_segundos": 825565, "media_espera_formatado": "9d 13h 19m 25s", "media_execucao_segundos": 8644, "media_execucao_formatado": "2h 24m 4s"}
+,
+{"ano": 2024, "mes": 5, "particao": "gpu-4-a100", "jobs": 313, "media_espera_segundos": 8758, "media_espera_formatado": "2h 25m 58s", "media_execucao_segundos": 8149, "media_execucao_formatado": "2h 15m 49s"}
+,
+{"ano": 2024, "mes": 5, "particao": "gpu-8-v100", "jobs": 1453, "media_espera_segundos": 204978, "media_espera_formatado": "2d 8h 56m 18s", "media_execucao_segundos": 8070, "media_execucao_formatado": "2h 14m 30s"}
+,
+{"ano": 2024, "mes": 5, "particao": "intel-128", "jobs": 6004, "media_espera_segundos": 28798, "media_espera_formatado": "7h 59m 58s", "media_execucao_segundos": 12733, "media_execucao_formatado": "3h 32m 13s"}
+,
+{"ano": 2024, "mes": 5, "particao": "intel-256", "jobs": 958, "media_espera_segundos": 16670, "media_espera_formatado": "4h 37m 50s", "media_execucao_segundos": 15781, "media_execucao_formatado": "4h 23m 1s"}
+,
+{"ano": 2024, "mes": 5, "particao": "intel-512", "jobs": 4041, "media_espera_segundos": 5918, "media_espera_formatado": "1h 38m 38s", "media_execucao_segundos": 3740, "media_execucao_formatado": "1h 2m 20s"}
+,
+{"ano": 2024, "mes": 6, "particao": "amd-512", "jobs": 43975, "media_espera_segundos": 864, "media_espera_formatado": "14m 24s", "media_execucao_segundos": 1594, "media_execucao_formatado": "26m 34s"}
+,
+{"ano": 2024, "mes": 6, "particao": "gpu-4-a100", "jobs": 199, "media_espera_segundos": 687, "media_espera_formatado": "11m 27s", "media_execucao_segundos": 4650, "media_execucao_formatado": "1h 17m 30s"}
+,
+{"ano": 2024, "mes": 6, "particao": "gpu-8-v100", "jobs": 928, "media_espera_segundos": 1, "media_espera_formatado": "1s", "media_execucao_segundos": 3265, "media_execucao_formatado": "54m 25s"}
+,
+{"ano": 2024, "mes": 6, "particao": "intel-128", "jobs": 14408, "media_espera_segundos": 16911, "media_espera_formatado": "4h 41m 51s", "media_execucao_segundos": 3060, "media_execucao_formatado": "51m 0s"}
+,
+{"ano": 2024, "mes": 6, "particao": "intel-256", "jobs": 483, "media_espera_segundos": 20583, "media_espera_formatado": "5h 43m 3s", "media_execucao_segundos": 30315, "media_execucao_formatado": "8h 25m 15s"}
+,
+{"ano": 2024, "mes": 6, "particao": "intel-512", "jobs": 1825, "media_espera_segundos": 20403, "media_espera_formatado": "5h 40m 3s", "media_execucao_segundos": 4449, "media_execucao_formatado": "1h 14m 9s"}
+,
+{"ano": 2024, "mes": 7, "particao": "amd-512", "jobs": 41160, "media_espera_segundos": 3425, "media_espera_formatado": "57m 5s", "media_execucao_segundos": 3504, "media_execucao_formatado": "58m 24s"}
+,
+{"ano": 2024, "mes": 7, "particao": "gpu-4-a100", "jobs": 223, "media_espera_segundos": 436, "media_espera_formatado": "7m 16s", "media_execucao_segundos": 3627, "media_execucao_formatado": "1h 27s"}
+,
+{"ano": 2024, "mes": 7, "particao": "gpu-8-v100", "jobs": 933, "media_espera_segundos": 17443, "media_espera_formatado": "4h 50m 43s", "media_execucao_segundos": 2990, "media_execucao_formatado": "49m 50s"}
+,
+{"ano": 2024, "mes": 7, "particao": "intel-128", "jobs": 8851, "media_espera_segundos": 12937, "media_espera_formatado": "3h 35m 37s", "media_execucao_segundos": 6083, "media_execucao_formatado": "1h 41m 23s"}
+,
+{"ano": 2024, "mes": 7, "particao": "intel-256", "jobs": 20108, "media_espera_segundos": 1774, "media_espera_formatado": "29m 34s", "media_execucao_segundos": 913, "media_execucao_formatado": "15m 13s"}
+,
+{"ano": 2024, "mes": 7, "particao": "intel-512", "jobs": 25665, "media_espera_segundos": 4031, "media_espera_formatado": "1h 7m 11s", "media_execucao_segundos": 453, "media_execucao_formatado": "7m 33s"}
+,
+{"ano": 2024, "mes": 8, "particao": "amd-512", "jobs": 5304, "media_espera_segundos": 9041, "media_espera_formatado": "2h 30m 41s", "media_execucao_segundos": 10356, "media_execucao_formatado": "2h 52m 36s"}
+,
+{"ano": 2024, "mes": 8, "particao": "gpu-4-a100", "jobs": 139, "media_espera_segundos": 0, "media_espera_formatado": "0s", "media_execucao_segundos": 8449, "media_execucao_formatado": "2h 20m 49s"}
+,
+{"ano": 2024, "mes": 8, "particao": "gpu-8-v100", "jobs": 1057, "media_espera_segundos": 18331, "media_espera_formatado": "5h 5m 31s", "media_execucao_segundos": 5698, "media_execucao_formatado": "1h 34m 58s"}
+,
+{"ano": 2024, "mes": 8, "particao": "intel-128", "jobs": 8910, "media_espera_segundos": 16233, "media_espera_formatado": "4h 30m 33s", "media_execucao_segundos": 3649, "media_execucao_formatado": "1h 49s"}
+,
+{"ano": 2024, "mes": 8, "particao": "intel-256", "jobs": 1116, "media_espera_segundos": 20876, "media_espera_formatado": "5h 47m 56s", "media_execucao_segundos": 12653, "media_execucao_formatado": "3h 30m 53s"}
+,
+{"ano": 2024, "mes": 8, "particao": "intel-512", "jobs": 17529, "media_espera_segundos": 4344, "media_espera_formatado": "1h 12m 24s", "media_execucao_segundos": 783, "media_execucao_formatado": "13m 3s"}
+,
+{"ano": 2024, "mes": 9, "particao": "amd-512", "jobs": 2202, "media_espera_segundos": 14234, "media_espera_formatado": "3h 57m 14s", "media_execucao_segundos": 18194, "media_execucao_formatado": "5h 3m 14s"}
+,
+{"ano": 2024, "mes": 9, "particao": "gpu-4-a100", "jobs": 136, "media_espera_segundos": 3466, "media_espera_formatado": "57m 46s", "media_execucao_segundos": 3115, "media_execucao_formatado": "51m 55s"}
+,
+{"ano": 2024, "mes": 9, "particao": "gpu-8-v100", "jobs": 1683, "media_espera_segundos": 13294, "media_espera_formatado": "3h 41m 34s", "media_execucao_segundos": 8100, "media_execucao_formatado": "2h 15m 0s"}
+,
+{"ano": 2024, "mes": 9, "particao": "intel-128", "jobs": 4305, "media_espera_segundos": 24100, "media_espera_formatado": "6h 41m 40s", "media_execucao_segundos": 6838, "media_execucao_formatado": "1h 53m 58s"}
+,
+{"ano": 2024, "mes": 9, "particao": "intel-256", "jobs": 768, "media_espera_segundos": 6447, "media_espera_formatado": "1h 47m 27s", "media_execucao_segundos": 21771, "media_execucao_formatado": "6h 2m 51s"}
+,
+{"ano": 2024, "mes": 9, "particao": "intel-512", "jobs": 337, "media_espera_segundos": 9508, "media_espera_formatado": "2h 38m 28s", "media_execucao_segundos": 13918, "media_execucao_formatado": "3h 51m 58s"}
+,
+{"ano": 2024, "mes": 10, "particao": "amd-3tb", "jobs": 617, "media_espera_segundos": 1, "media_espera_formatado": "1s", "media_execucao_segundos": 471, "media_execucao_formatado": "7m 51s"}
+,
+{"ano": 2024, "mes": 10, "particao": "amd-512", "jobs": 10164, "media_espera_segundos": 11410, "media_espera_formatado": "3h 10m 10s", "media_execucao_segundos": 7506, "media_execucao_formatado": "2h 5m 6s"}
+,
+{"ano": 2024, "mes": 10, "particao": "gpu-4-a100", "jobs": 17, "media_espera_segundos": 1376, "media_espera_formatado": "22m 56s", "media_execucao_segundos": 11804, "media_execucao_formatado": "3h 16m 44s"}
+,
+{"ano": 2024, "mes": 10, "particao": "gpu-8-v100", "jobs": 402, "media_espera_segundos": 6809, "media_espera_formatado": "1h 53m 29s", "media_execucao_segundos": 9097, "media_execucao_formatado": "2h 31m 37s"}
+,
+{"ano": 2024, "mes": 10, "particao": "intel-128", "jobs": 32652, "media_espera_segundos": 2020, "media_espera_formatado": "33m 40s", "media_execucao_segundos": 5240, "media_execucao_formatado": "1h 27m 20s"}
+,
+{"ano": 2024, "mes": 10, "particao": "intel-256", "jobs": 2280, "media_espera_segundos": 6582, "media_espera_formatado": "1h 49m 42s", "media_execucao_segundos": 22325, "media_execucao_formatado": "6h 12m 5s"}
+,
+{"ano": 2024, "mes": 10, "particao": "intel-512", "jobs": 728, "media_espera_segundos": 2926, "media_espera_formatado": "48m 46s", "media_execucao_segundos": 17129, "media_execucao_formatado": "4h 45m 29s"}
+,
+{"ano": 2024, "mes": 11, "particao": "amd-3tb", "jobs": 905, "media_espera_segundos": 58, "media_espera_formatado": "58s", "media_execucao_segundos": 4988, "media_execucao_formatado": "1h 23m 8s"}
+,
+{"ano": 2024, "mes": 11, "particao": "amd-512", "jobs": 31154, "media_espera_segundos": 486, "media_espera_formatado": "8m 6s", "media_execucao_segundos": 3269, "media_execucao_formatado": "54m 29s"}
+,
+{"ano": 2024, "mes": 11, "particao": "gpu-4-a100", "jobs": 138, "media_espera_segundos": 23515, "media_espera_formatado": "6h 31m 55s", "media_execucao_segundos": 18595, "media_execucao_formatado": "5h 9m 55s"}
+,
+{"ano": 2024, "mes": 11, "particao": "gpu-8-h100", "jobs": 94, "media_espera_segundos": 34996, "media_espera_formatado": "9h 43m 16s", "media_execucao_segundos": 8495, "media_execucao_formatado": "2h 21m 35s"}
+,
+{"ano": 2024, "mes": 11, "particao": "gpu-8-v100", "jobs": 668, "media_espera_segundos": 23178, "media_espera_formatado": "6h 26m 18s", "media_execucao_segundos": 12087, "media_execucao_formatado": "3h 21m 27s"}
+,
+{"ano": 2024, "mes": 11, "particao": "intel-128", "jobs": 2466, "media_espera_segundos": 127589, "media_espera_formatado": "1d 11h 26m 29s", "media_execucao_segundos": 21395, "media_execucao_formatado": "5h 56m 35s"}
+,
+{"ano": 2024, "mes": 11, "particao": "intel-256", "jobs": 19859, "media_espera_segundos": 296, "media_espera_formatado": "4m 56s", "media_execucao_segundos": 496, "media_execucao_formatado": "8m 16s"}
+,
+{"ano": 2024, "mes": 11, "particao": "intel-512", "jobs": 293, "media_espera_segundos": 11915, "media_espera_formatado": "3h 18m 35s", "media_execucao_segundos": 41856, "media_execucao_formatado": "11h 37m 36s"}
+,
+{"ano": 2024, "mes": 12, "particao": "amd-3tb", "jobs": 6593, "media_espera_segundos": 937, "media_espera_formatado": "15m 37s", "media_execucao_segundos": 2872, "media_execucao_formatado": "47m 52s"}
+,
+{"ano": 2024, "mes": 12, "particao": "amd-512", "jobs": 44285, "media_espera_segundos": 471, "media_espera_formatado": "7m 51s", "media_execucao_segundos": 6222, "media_execucao_formatado": "1h 43m 42s"}
+,
+{"ano": 2024, "mes": 12, "particao": "gpu-4-a100", "jobs": 96, "media_espera_segundos": 270266, "media_espera_formatado": "3d 3h 4m 26s", "media_execucao_segundos": 27683, "media_execucao_formatado": "7h 41m 23s"}
+,
+{"ano": 2024, "mes": 12, "particao": "gpu-8-h100", "jobs": 26, "media_espera_segundos": 1024202, "media_espera_formatado": "11d 20h 30m 2s", "media_execucao_segundos": 86479, "media_execucao_formatado": "1d 1m 19s"}
+,
+{"ano": 2024, "mes": 12, "particao": "gpu-8-v100", "jobs": 1357, "media_espera_segundos": 54037, "media_espera_formatado": "15h 37s", "media_execucao_segundos": 12023, "media_execucao_formatado": "3h 20m 23s"}
+,
+{"ano": 2024, "mes": 12, "particao": "intel-128", "jobs": 3716, "media_espera_segundos": 494287, "media_espera_formatado": "5d 17h 18m 7s", "media_execucao_segundos": 4114, "media_execucao_formatado": "1h 8m 34s"}
+,
+{"ano": 2024, "mes": 12, "particao": "intel-256", "jobs": 6047, "media_espera_segundos": 448, "media_espera_formatado": "7m 28s", "media_execucao_segundos": 906, "media_execucao_formatado": "15m 6s"}
+,
+{"ano": 2024, "mes": 12, "particao": "intel-512", "jobs": 77, "media_espera_segundos": 798792, "media_espera_formatado": "9d 5h 53m 12s", "media_execucao_segundos": 141306, "media_execucao_formatado": "1d 15h 15m 6s"}
+,
+{"ano": 2025, "mes": 1, "particao": "amd-3tb", "jobs": 10542, "media_espera_segundos": 621, "media_espera_formatado": "10m 21s", "media_execucao_segundos": 4922, "media_execucao_formatado": "1h 22m 2s"}
+,
+{"ano": 2025, "mes": 1, "particao": "amd-512", "jobs": 32475, "media_espera_segundos": 2342, "media_espera_formatado": "39m 2s", "media_execucao_segundos": 4324, "media_execucao_formatado": "1h 12m 4s"}
+,
+{"ano": 2025, "mes": 1, "particao": "gpu-4-a100", "jobs": 308, "media_espera_segundos": 14597, "media_espera_formatado": "4h 3m 17s", "media_execucao_segundos": 3869, "media_execucao_formatado": "1h 4m 29s"}
+,
+{"ano": 2025, "mes": 1, "particao": "gpu-8-h100", "jobs": 138, "media_espera_segundos": 21548, "media_espera_formatado": "5h 59m 8s", "media_execucao_segundos": 13832, "media_execucao_formatado": "3h 50m 32s"}
+,
+{"ano": 2025, "mes": 1, "particao": "gpu-8-v100", "jobs": 649, "media_espera_segundos": 31585, "media_espera_formatado": "8h 46m 25s", "media_execucao_segundos": 18177, "media_execucao_formatado": "5h 2m 57s"}
+,
+{"ano": 2025, "mes": 1, "particao": "intel-128", "jobs": 2940, "media_espera_segundos": 95671, "media_espera_formatado": "1d 2h 34m 31s", "media_execucao_segundos": 15025, "media_execucao_formatado": "4h 10m 25s"}
+,
+{"ano": 2025, "mes": 1, "particao": "intel-256", "jobs": 4899, "media_espera_segundos": 3664, "media_espera_formatado": "1h 1m 4s", "media_execucao_segundos": 5763, "media_execucao_formatado": "1h 36m 3s"}
+,
+{"ano": 2025, "mes": 1, "particao": "intel-512", "jobs": 1264, "media_espera_segundos": 235763, "media_espera_formatado": "2d 17h 29m 23s", "media_execucao_segundos": 12363, "media_execucao_formatado": "3h 26m 3s"}
+,
+{"ano": 2025, "mes": 2, "particao": "amd-3tb", "jobs": 7333, "media_espera_segundos": 115, "media_espera_formatado": "1m 55s", "media_execucao_segundos": 859, "media_execucao_formatado": "14m 19s"}
+,
+{"ano": 2025, "mes": 2, "particao": "amd-512", "jobs": 79383, "media_espera_segundos": 707, "media_espera_formatado": "11m 47s", "media_execucao_segundos": 5560, "media_execucao_formatado": "1h 32m 40s"}
+,
+{"ano": 2025, "mes": 2, "particao": "dug-all", "jobs": 36, "media_espera_segundos": 3, "media_espera_formatado": "3s", "media_execucao_segundos": 3310, "media_execucao_formatado": "55m 10s"}
+,
+{"ano": 2025, "mes": 2, "particao": "fwi-master", "jobs": 3, "media_espera_segundos": 51, "media_espera_formatado": "51s", "media_execucao_segundos": 15573, "media_execucao_formatado": "4h 19m 33s"}
+,
+{"ano": 2025, "mes": 2, "particao": "gpu-4-a100", "jobs": 423, "media_espera_segundos": 5300, "media_espera_formatado": "1h 28m 20s", "media_execucao_segundos": 2441, "media_execucao_formatado": "40m 41s"}
+,
+{"ano": 2025, "mes": 2, "particao": "gpu-8-h100", "jobs": 42, "media_espera_segundos": 76494, "media_espera_formatado": "21h 14m 54s", "media_execucao_segundos": 45603, "media_execucao_formatado": "12h 40m 3s"}
+,
+{"ano": 2025, "mes": 2, "particao": "gpu-8-v100", "jobs": 979, "media_espera_segundos": 7171, "media_espera_formatado": "1h 59m 31s", "media_execucao_segundos": 11707, "media_execucao_formatado": "3h 15m 7s"}
+,
+{"ano": 2025, "mes": 2, "particao": "intel-128", "jobs": 6301, "media_espera_segundos": 6478, "media_espera_formatado": "1h 47m 58s", "media_execucao_segundos": 3684, "media_execucao_formatado": "1h 1m 24s"}
+,
+{"ano": 2025, "mes": 2, "particao": "intel-256", "jobs": 13031, "media_espera_segundos": 333, "media_espera_formatado": "5m 33s", "media_execucao_segundos": 1570, "media_execucao_formatado": "26m 10s"}
+,
+{"ano": 2025, "mes": 2, "particao": "intel-512", "jobs": 1434, "media_espera_segundos": 10694, "media_espera_formatado": "2h 58m 14s", "media_execucao_segundos": 14210, "media_execucao_formatado": "3h 56m 50s"}
+,
+{"ano": 2025, "mes": 3, "particao": "amd-3tb", "jobs": 11740, "media_espera_segundos": 792, "media_espera_formatado": "13m 12s", "media_execucao_segundos": 1569, "media_execucao_formatado": "26m 9s"}
+,
+{"ano": 2025, "mes": 3, "particao": "amd-512", "jobs": 72742, "media_espera_segundos": 323, "media_espera_formatado": "5m 23s", "media_execucao_segundos": 3087, "media_execucao_formatado": "51m 27s"}
+,
+{"ano": 2025, "mes": 3, "particao": "gpu-4-a100", "jobs": 74, "media_espera_segundos": 105488, "media_espera_formatado": "1d 5h 18m 8s", "media_execucao_segundos": 34849, "media_execucao_formatado": "9h 40m 49s"}
+,
+{"ano": 2025, "mes": 3, "particao": "gpu-8-h100", "jobs": 60, "media_espera_segundos": 198407, "media_espera_formatado": "2d 7h 6m 47s", "media_execucao_segundos": 41044, "media_execucao_formatado": "11h 24m 4s"}
+,
+{"ano": 2025, "mes": 3, "particao": "gpu-8-v100", "jobs": 655, "media_espera_segundos": 12101, "media_espera_formatado": "3h 21m 41s", "media_execucao_segundos": 9922, "media_execucao_formatado": "2h 45m 22s"}
+,
+{"ano": 2025, "mes": 3, "particao": "intel-128", "jobs": 4213, "media_espera_segundos": 14457, "media_espera_formatado": "4h 57s", "media_execucao_segundos": 3813, "media_execucao_formatado": "1h 3m 33s"}
+,
+{"ano": 2025, "mes": 3, "particao": "intel-256", "jobs": 1097, "media_espera_segundos": 12720, "media_espera_formatado": "3h 32m 0s", "media_execucao_segundos": 7415, "media_execucao_formatado": "2h 3m 35s"}
+,
+{"ano": 2025, "mes": 3, "particao": "intel-512", "jobs": 469, "media_espera_segundos": 46549, "media_espera_formatado": "12h 55m 49s", "media_execucao_segundos": 17438, "media_execucao_formatado": "4h 50m 38s"}
+,
+{"ano": 2025, "mes": 4, "particao": "amd-3tb", "jobs": 2371, "media_espera_segundos": 27238, "media_espera_formatado": "7h 33m 58s", "media_execucao_segundos": 21244, "media_execucao_formatado": "5h 54m 4s"}
+,
+{"ano": 2025, "mes": 4, "particao": "amd-512", "jobs": 69205, "media_espera_segundos": 3605, "media_espera_formatado": "1h 5s", "media_execucao_segundos": 4256, "media_execucao_formatado": "1h 10m 56s"}
+,
+{"ano": 2025, "mes": 4, "particao": "dug-all", "jobs": 39, "media_espera_segundos": 38, "media_espera_formatado": "38s", "media_execucao_segundos": 2771, "media_execucao_formatado": "46m 11s"}
+,
+{"ano": 2025, "mes": 4, "particao": "fwi-master", "jobs": 14, "media_espera_segundos": 0, "media_espera_formatado": "0s", "media_execucao_segundos": 219, "media_execucao_formatado": "3m 39s"}
+,
+{"ano": 2025, "mes": 4, "particao": "gpu-4-a100", "jobs": 14, "media_espera_segundos": 60720, "media_espera_formatado": "16h 52m 0s", "media_execucao_segundos": 12379, "media_execucao_formatado": "3h 26m 19s"}
+,
+{"ano": 2025, "mes": 4, "particao": "gpu-8-h100", "jobs": 5, "media_espera_segundos": 298447, "media_espera_formatado": "3d 10h 54m 7s", "media_execucao_segundos": 37555, "media_execucao_formatado": "10h 25m 55s"}
+,
+{"ano": 2025, "mes": 4, "particao": "gpu-8-v100", "jobs": 586, "media_espera_segundos": 44780, "media_espera_formatado": "12h 26m 20s", "media_execucao_segundos": 15140, "media_execucao_formatado": "4h 12m 20s"}
+,
+{"ano": 2025, "mes": 4, "particao": "intel-128", "jobs": 3841, "media_espera_segundos": 6990, "media_espera_formatado": "1h 56m 30s", "media_execucao_segundos": 9933, "media_execucao_formatado": "2h 45m 33s"}
+,
+{"ano": 2025, "mes": 4, "particao": "intel-256", "jobs": 44339, "media_espera_segundos": 352, "media_espera_formatado": "5m 52s", "media_execucao_segundos": 310, "media_execucao_formatado": "5m 10s"}
+,
+{"ano": 2025, "mes": 4, "particao": "intel-512", "jobs": 672, "media_espera_segundos": 195, "media_espera_formatado": "3m 15s", "media_execucao_segundos": 8238, "media_execucao_formatado": "2h 17m 18s"}
+,
+{"ano": 2025, "mes": 5, "particao": "amd-3tb", "jobs": 598, "media_espera_segundos": 12530, "media_espera_formatado": "3h 28m 50s", "media_execucao_segundos": 12638, "media_execucao_formatado": "3h 30m 38s"}
+,
+{"ano": 2025, "mes": 5, "particao": "amd-512", "jobs": 197621, "media_espera_segundos": 1890, "media_espera_formatado": "31m 30s", "media_execucao_segundos": 2325, "media_execucao_formatado": "38m 45s"}
+,
+{"ano": 2025, "mes": 5, "particao": "dug-all", "jobs": 7, "media_espera_segundos": 16, "media_espera_formatado": "16s", "media_execucao_segundos": 246, "media_execucao_formatado": "4m 6s"}
+,
+{"ano": 2025, "mes": 5, "particao": "gpu-4-a100", "jobs": 147, "media_espera_segundos": 206578, "media_espera_formatado": "2d 9h 22m 58s", "media_execucao_segundos": 5610, "media_execucao_formatado": "1h 33m 30s"}
+,
+{"ano": 2025, "mes": 5, "particao": "gpu-8-h100", "jobs": 9, "media_espera_segundos": 2879248, "media_espera_formatado": "33d 7h 47m 28s", "media_execucao_segundos": 97332, "media_execucao_formatado": "1d 3h 2m 12s"}
+,
+{"ano": 2025, "mes": 5, "particao": "gpu-8-v100", "jobs": 551, "media_espera_segundos": 73831, "media_espera_formatado": "20h 30m 31s", "media_execucao_segundos": 9585, "media_execucao_formatado": "2h 39m 45s"}
+,
+{"ano": 2025, "mes": 5, "particao": "intel-128", "jobs": 9173, "media_espera_segundos": 3035, "media_espera_formatado": "50m 35s", "media_execucao_segundos": 5800, "media_execucao_formatado": "1h 36m 40s"}
+,
+{"ano": 2025, "mes": 5, "particao": "intel-256", "jobs": 1216, "media_espera_segundos": 28483, "media_espera_formatado": "7h 54m 43s", "media_execucao_segundos": 11365, "media_execucao_formatado": "3h 9m 25s"}
+,
+{"ano": 2025, "mes": 5, "particao": "intel-512", "jobs": 726, "media_espera_segundos": 2617, "media_espera_formatado": "43m 37s", "media_execucao_segundos": 19131, "media_execucao_formatado": "5h 18m 51s"}
+,
+{"ano": 2025, "mes": 6, "particao": "amd-3tb", "jobs": 946, "media_espera_segundos": 12270, "media_espera_formatado": "3h 24m 30s", "media_execucao_segundos": 16917, "media_execucao_formatado": "4h 41m 57s"}
+,
+{"ano": 2025, "mes": 6, "particao": "amd-512", "jobs": 23007, "media_espera_segundos": 1698, "media_espera_formatado": "28m 18s", "media_execucao_segundos": 5601, "media_execucao_formatado": "1h 33m 21s"}
+,
+{"ano": 2025, "mes": 6, "particao": "dug-all", "jobs": 12, "media_espera_segundos": 0, "media_espera_formatado": "0s", "media_execucao_segundos": 39, "media_execucao_formatado": "39s"}
+,
+{"ano": 2025, "mes": 6, "particao": "gpu-4-a100", "jobs": 285, "media_espera_segundos": 7325, "media_espera_formatado": "2h 2m 5s", "media_execucao_segundos": 4909, "media_execucao_formatado": "1h 21m 49s"}
+,
+{"ano": 2025, "mes": 6, "particao": "gpu-8-h100", "jobs": 116, "media_espera_segundos": 148831, "media_espera_formatado": "1d 17h 20m 31s", "media_execucao_segundos": 16534, "media_execucao_formatado": "4h 35m 34s"}
+,
+{"ano": 2025, "mes": 6, "particao": "gpu-8-v100", "jobs": 366, "media_espera_segundos": 81794, "media_espera_formatado": "22h 43m 14s", "media_execucao_segundos": 10802, "media_execucao_formatado": "3h 2s"}
+,
+{"ano": 2025, "mes": 6, "particao": "intel-128", "jobs": 3318, "media_espera_segundos": 11091, "media_espera_formatado": "3h 4m 51s", "media_execucao_segundos": 15783, "media_execucao_formatado": "4h 23m 3s"}
+,
+{"ano": 2025, "mes": 6, "particao": "intel-256", "jobs": 265, "media_espera_segundos": 109, "media_espera_formatado": "1m 49s", "media_execucao_segundos": 13261, "media_execucao_formatado": "3h 41m 1s"}
+,
+{"ano": 2025, "mes": 6, "particao": "intel-512", "jobs": 441, "media_espera_segundos": 54743, "media_espera_formatado": "15h 12m 23s", "media_execucao_segundos": 33415, "media_execucao_formatado": "9h 16m 55s"}
+,
+{"ano": 2025, "mes": 7, "particao": "amd-3tb", "jobs": 3130, "media_espera_segundos": 20612, "media_espera_formatado": "5h 43m 32s", "media_execucao_segundos": 12642, "media_execucao_formatado": "3h 30m 42s"}
+,
+{"ano": 2025, "mes": 7, "particao": "amd-512", "jobs": 2571, "media_espera_segundos": 65203, "media_espera_formatado": "18h 6m 43s", "media_execucao_segundos": 53190, "media_execucao_formatado": "14h 46m 30s"}
+,
+{"ano": 2025, "mes": 7, "particao": "dug-all", "jobs": 1, "media_espera_segundos": 23291, "media_espera_formatado": "6h 28m 11s", "media_execucao_segundos": 0, "media_execucao_formatado": "0s"}
+,
+{"ano": 2025, "mes": 7, "particao": "gpu-4-a100", "jobs": 980, "media_espera_segundos": 4658, "media_espera_formatado": "1h 17m 38s", "media_execucao_segundos": 1415, "media_execucao_formatado": "23m 35s"}
+,
+{"ano": 2025, "mes": 7, "particao": "gpu-8-h100", "jobs": 142, "media_espera_segundos": 11752, "media_espera_formatado": "3h 15m 52s", "media_execucao_segundos": 14146, "media_execucao_formatado": "3h 55m 46s"}
+,
+{"ano": 2025, "mes": 7, "particao": "gpu-8-v100", "jobs": 1239, "media_espera_segundos": 9242, "media_espera_formatado": "2h 34m 2s", "media_execucao_segundos": 5444, "media_execucao_formatado": "1h 30m 44s"}
+,
+{"ano": 2025, "mes": 7, "particao": "intel-128", "jobs": 2342, "media_espera_segundos": 13765, "media_espera_formatado": "3h 49m 25s", "media_execucao_segundos": 24207, "media_execucao_formatado": "6h 43m 27s"}
+,
+{"ano": 2025, "mes": 7, "particao": "intel-256", "jobs": 755, "media_espera_segundos": 25599, "media_espera_formatado": "7h 6m 39s", "media_execucao_segundos": 17950, "media_execucao_formatado": "4h 59m 10s"}
+,
+{"ano": 2025, "mes": 7, "particao": "intel-512", "jobs": 1993, "media_espera_segundos": 21912, "media_espera_formatado": "6h 5m 12s", "media_execucao_segundos": 9549, "media_execucao_formatado": "2h 39m 9s"}
+,
+{"ano": 2025, "mes": 8, "particao": "intel-128", "jobs": 48, "media_espera_segundos": 926560, "media_espera_formatado": "10d 17h 22m 40s", "media_execucao_segundos": 32984, "media_execucao_formatado": "9h 9m 44s"}
+
+]

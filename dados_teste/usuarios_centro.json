@@ -1,0 +1,3917 @@
+[
+  {
+    "username": "user163",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user837",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user840",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user105",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user838",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user709",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user637",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BOTÂNICA E ZOOLOGIA"
+  },
+  {
+    "username": "user186",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user488",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user711",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user631",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user47",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user568",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user251",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user330",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user347",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user361",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user554",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user23",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE ESTATISTICA"
+  },
+  {
+    "username": "user924",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE ESTATISTICA"
+  },
+  {
+    "username": "user13",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user53",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user942",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user48",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user55",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user426",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user527",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user533",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user536",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user544",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user556",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user635",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user797",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user864",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user538",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE MATEMÁTICA"
+  },
+  {
+    "username": "user819",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE MATEMÁTICA"
+  },
+  {
+    "username": "user561",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user674",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user905",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user642",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user26",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user150",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user654",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user740",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user827",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user928",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user799",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE PETROLEO"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user241",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user201",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user549",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user619",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user254",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA PRODUÇÃO"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user16",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user18",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user386",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user398",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user529",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user551",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user559",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user567",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user623",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user668",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user768",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user926",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user12",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user546",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user57",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user690",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user845",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user953",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user96",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user162",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user224",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user588",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user691",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user938",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user24",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user45",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user52",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user345",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user564",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user565",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user726",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user850",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user54",
+    "centro": "SUPERINTENDÊNCIA DE INFORMÁTICA - SINFO",
+    "departamento": "SUPERINTENDÊNCIA DE INFORMÁTICA"
+  },
+  {
+    "username": "user1344",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BOTÂNICA E ZOOLOGIA"
+  },
+  {
+    "username": "user1209",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user1279",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user1080",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user1231",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user1372",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE ESTATISTICA"
+  },
+  {
+    "username": "user1449",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE ESTATISTICA"
+  },
+  {
+    "username": "user1082",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1096",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1459",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1028",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1377",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1396",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1046",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOLOGIA"
+  },
+  {
+    "username": "user1152",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOLOGIA"
+  },
+  {
+    "username": "user984",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1068",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1154",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1307",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1371",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1412",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1198",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1295",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1465",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1147",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA CIVIL"
+  },
+  {
+    "username": "user1320",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1286",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE PETROLEO"
+  },
+  {
+    "username": "user1460",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE PETROLEO"
+  },
+  {
+    "username": "user1289",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user1303",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA QUIMICA"
+  },
+  {
+    "username": "user1351",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA QUIMICA"
+  },
+  {
+    "username": "user975",
+    "centro": "ESCOLA AGRÍCOLA DE JUNDIAÍ - EAJ",
+    "departamento": "ESCOLA AGRÍCOLA DE JUNDIAÍ"
+  },
+  {
+    "username": "user1463",
+    "centro": "ESCOLA AGRÍCOLA DE JUNDIAÍ - EAJ",
+    "departamento": "ESCOLA AGRÍCOLA DE JUNDIAÍ"
+  },
+  {
+    "username": "user1158",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user1359",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user1022",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1113",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1193",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1223",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1053",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user1141",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user1200",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user1179",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1210",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1309",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1402",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1492",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1585",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1491",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user1510",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user1529",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user1591",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1554",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1499",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user1558",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user1509",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user1541",
+    "centro": "ESCOLA MULTICAMPI DE CIÊNCIAS MÉDICAS DO RIO GRANDE DO NORTE - EMCM/RN",
+    "departamento": "ESCOLA MULTICAMPI DE CIÊNCIAS MÉDICAS DO RIO GRANDE DO NORTE"
+  },
+  {
+    "username": "user1493",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1594",
+    "centro": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES - CCHLA",
+    "departamento": "DEPARTAMENTO DE LETRAS"
+  },
+  {
+    "username": "user1605",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user1617",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user1618",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user1624",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1631",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BOTÂNICA E ZOOLOGIA"
+  },
+  {
+    "username": "user1676",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1704",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1706",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user163",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user163",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user258",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user840",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user840",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user840",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user840",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user49",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user105",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user838",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user838",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOLOGIA CELULAR E GENÉTICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user238",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user709",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOQUÍMICA"
+  },
+  {
+    "username": "user637",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BOTÂNICA E ZOOLOGIA"
+  },
+  {
+    "username": "user637",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BOTÂNICA E ZOOLOGIA"
+  },
+  {
+    "username": "user637",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BOTÂNICA E ZOOLOGIA"
+  },
+  {
+    "username": "user488",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user711",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user687",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user631",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user631",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user631",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user631",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user631",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user631",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user47",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user47",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user47",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user47",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user568",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user251",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user317",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user347",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user347",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user347",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user554",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user554",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user13",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user21",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user53",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user349",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user393",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user681",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user942",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user942",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user48",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user48",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user55",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user55",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user426",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user426",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user527",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user527",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user533",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user533",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user533",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user533",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user533",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user536",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user536",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user544",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user544",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user556",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user556",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user635",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user635",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user635",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user635",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user797",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user797",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user797",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user864",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user538",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE MATEMÁTICA"
+  },
+  {
+    "username": "user905",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user905",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user905",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user905",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user642",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user36",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user51",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user72",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user150",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user654",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user654",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user740",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user827",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user928",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user7",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMUNICACOES"
+  },
+  {
+    "username": "user799",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE PETROLEO"
+  },
+  {
+    "username": "user799",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE PETROLEO"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user2",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user241",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user201",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user201",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user549",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user15",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user16",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user386",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user398",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user551",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user567",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user668",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user926",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user926",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user926",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user12",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user50",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user335",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user546",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user617",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user56",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user57",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user57",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user68",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user845",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user845",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user96",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user96",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user96",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user96",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user162",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user162",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user162",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user224",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user224",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user588",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user691",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user691",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user938",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user938",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user938",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user938",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user938",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user938",
+    "centro": "INSTITUTO INTERNACIONAL DE FÍSICA - IIF",
+    "departamento": "INSTITUTO INTERNACIONAL DE FÍSICA"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user5",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user32",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user33",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user45",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user52",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user88",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user106",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user564",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user564",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user565",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user565",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user726",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user726",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user824",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user850",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user850",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user850",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user850",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user850",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1279",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE ECOLOGIA"
+  },
+  {
+    "username": "user1080",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE PARASITOLOGIA"
+  },
+  {
+    "username": "user1231",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user1231",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE ANÁLISES CLÍNICAS E TOXICOLÓGICAS"
+  },
+  {
+    "username": "user1372",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE ESTATISTICA"
+  },
+  {
+    "username": "user1449",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE ESTATISTICA"
+  },
+  {
+    "username": "user1449",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE ESTATISTICA"
+  },
+  {
+    "username": "user1082",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1082",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1459",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1028",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1028",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1028",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1396",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1396",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1396",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOFÍSICA"
+  },
+  {
+    "username": "user1046",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE GEOLOGIA"
+  },
+  {
+    "username": "user984",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user984",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1068",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1154",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1154",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1154",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1307",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1371",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1412",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1412",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1412",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1412",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1161",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE DIREITO - CERES"
+  },
+  {
+    "username": "user1198",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1295",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1465",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1465",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1465",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA BIOMEDICA"
+  },
+  {
+    "username": "user1147",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA CIVIL"
+  },
+  {
+    "username": "user1147",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA CIVIL"
+  },
+  {
+    "username": "user1320",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO"
+  },
+  {
+    "username": "user1286",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA DE PETROLEO"
+  },
+  {
+    "username": "user1351",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA QUIMICA"
+  },
+  {
+    "username": "user1351",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA QUIMICA"
+  },
+  {
+    "username": "user975",
+    "centro": "ESCOLA AGRÍCOLA DE JUNDIAÍ - EAJ",
+    "departamento": "ESCOLA AGRÍCOLA DE JUNDIAÍ"
+  },
+  {
+    "username": "user1463",
+    "centro": "ESCOLA AGRÍCOLA DE JUNDIAÍ - EAJ",
+    "departamento": "ESCOLA AGRÍCOLA DE JUNDIAÍ"
+  },
+  {
+    "username": "user1113",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1193",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1193",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1193",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1223",
+    "centro": "INSTITUTO DE QUÍMICA - IQ-UFRN",
+    "departamento": "INSTITUTO DE QUÍMICA"
+  },
+  {
+    "username": "user1053",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user1053",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user1200",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user1200",
+    "centro": "INSTITUTO DO CÉREBRO - INST. CÉREBRO",
+    "departamento": "INSTITUTO DO CÉREBRO"
+  },
+  {
+    "username": "user1179",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1179",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1309",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1492",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1492",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1492",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1492",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1492",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1492",
+    "centro": "CENTRO DE BIOCIÊNCIAS - CB",
+    "departamento": "DEPARTAMENTO DE BIOFÍSICA E FARMACOLOGIA"
+  },
+  {
+    "username": "user1491",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user1491",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user1491",
+    "centro": "CENTRO DE CIÊNCIAS DA SAÚDE - CCS",
+    "departamento": "DEPARTAMENTO DE FARMACIA"
+  },
+  {
+    "username": "user1529",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS E CLIMÁTICAS"
+  },
+  {
+    "username": "user1591",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE FÍSICA TEÓRICA E EXPERIMENTAL"
+  },
+  {
+    "username": "user1499",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user1499",
+    "centro": "CENTRO DE ENSINO SUPERIOR DO SERIDÓ - CERES",
+    "departamento": "DEPARTAMENTO DE COMPUTAÇÃO E TECNOLOGIA"
+  },
+  {
+    "username": "user1558",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+  },
+  {
+    "username": "user1493",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  },
+  {
+    "username": "user1605",
+    "centro": "CENTRO DE TECNOLOGIA - CT",
+    "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA"
+  },
+  {
+    "username": "user1618",
+    "centro": "ESCOLA DE CIÊNCIAS E TECNOLOGIA - ECT",
+    "departamento": "ESCOLA DE CIÊNCIAS E TECNOLOGIA"
+  },
+  {
+    "username": "user1624",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1704",
+    "centro": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA - CCET",
+    "departamento": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA"
+  },
+  {
+    "username": "user1706",
+    "centro": "INSTITUTO METROPOLE DIGITAL - IMD",
+    "departamento": "INSTITUTO METROPOLE DIGITAL"
+  }
+]
