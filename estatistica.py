@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.ticker as ticker
 
-def plot_grafico_linha(df_plot, metric_col, y_label, titulo, arq_saida, add_hours_suffix=False):
+def criar_grafico_linha(df_plot, metric_col, y_label, titulo, arq_saida, add_hours_suffix=False):
     """Gera e salva um gráfico de linha para a métrica especificada."""
     
     # Cria uma nova figura para cada gráfico
@@ -70,85 +70,90 @@ def simplificar_nome(nome):
     if ' - ' in nome:
         return nome.split(' - ')[-1].replace('.', '')
     
-def plot_grafico_pizza(df_plot, cores, arq_saida):
+def criar_grafico_pizza(df_plot, cores, arq_saida):
     """Gera e salva um gráfico de pizza para a distribuição de usuários por centro."""
     
-    # Preparação dos Dados Comuns de Usuários por Centro
-    contagem_centro = df_plot['centro'].value_counts()
-    contagem_centro_simplificado = contagem_centro.copy()
-    contagem_centro_simplificado.index = contagem_centro_simplificado.index.map(simplificar_nome)
+    # Contar usuários por centro
+    contagem = df_plot['centro'].value_counts()
 
-    # Agrupar categorias pequenas em "Outros"
-    outras_contagens = contagem_centro_simplificado[contagem_centro_simplificado <= 5].sum()
+    # Separar centros principais (>5 usuários) e outros (<=5 usuários)
+    centros_principais = contagem[contagem > 5]
+    centros_outros = contagem[contagem <= 5]
 
-    # Capturar nomes e contagens AGRUPADAS para detalhamento na legenda
-    centros_pequenos = contagem_centro_simplificado[contagem_centro_simplificado <= 5].sort_values(ascending=False)
-    nomes_detalhados_list = [f"{name} ({count})" for name, count in centros_pequenos.items()]
-    nomes_detalhados_str = ", ".join(nomes_detalhados_list)
-
-    if outras_contagens > 0:
-        contagem_final = contagem_centro_simplificado[contagem_centro_simplificado > 5].copy()
-        contagem_final['Outros'] = outras_contagens
+    # Criar série final com "Outros" se houver centros pequenos
+    if len(centros_outros) > 0:
+        outros_total = centros_outros.sum()
+        contagem_final = pd.concat([
+            centros_principais,
+            pd.Series({'Outros': outros_total})
+        ])
     else:
-        contagem_final = contagem_centro_simplificado.copy()
+        contagem_final = centros_principais
 
-    contagem_final = contagem_final.sort_values(ascending=False)
-    total_usuarios = contagem_final.sum()
+    # Extrair siglas dos centros usando a nova função
+    labels = []
+    sizes = []
 
-    plt.figure(figsize=(15, 10))
-    ax = plt.gca()
+    for centro, count in contagem_final.items():
+        if centro == 'Outros':
+            labels.append('Outros')
+        else:
+            labels.append(simplificar_nome(centro)) # Usar a função aqui
+        sizes.append(count)
 
+    # Criar labels para a legenda com formato: "SIGLA (N)"
+    legend_labels = []
+    for label, size in zip(labels, sizes):
+        if label == 'Outros':
+            # Extrair siglas e contagens dos centros agrupados em "Outros" usando a nova função
+            centros_info = []
+            for centro, count in centros_outros.items():
+                centros_info.append(f'{simplificar_nome(centro)} ({count})')
+            centros_str = ',\n'.join(centros_info)
+            legend_labels.append(f'{label} ({size}):\n{centros_str}')
+        else:
+            legend_labels.append(f'{label} ({size})')
+
+    # Configurar figura
+    fig, ax = plt.subplots(figsize=(15, 10))
+
+    # Criar gráfico de pizza sem autopct (vamos adicionar manualmente)
     wedges, texts = ax.pie(
-        contagem_final.values,
-        labels=None,
-        autopct=None,
-        startangle=90,
+        sizes,
         wedgeprops={'edgecolor': 'black', 'linewidth': 1},
         colors=cores
     )
 
-    # Colocar os rótulos de dados (Contagem e Porcentagem) fora das fatias
-    OUTER_RADIUS = 1.1 # Controla a distância dos rótulos à borda da pizza
+    # Adicionar valores absolutos e percentuais manualmente
+    for i, (wedge, size) in enumerate(zip(wedges, sizes)):
+        # Calcular ângulo e posição
+        ang = (wedge.theta2 - wedge.theta1) / 2 + wedge.theta1
+        x = 1.1 * wedge.r * np.cos(np.radians(ang))
+        y = 1.1 * wedge.r * np.sin(np.radians(ang))
 
-    for i, (wedge, value) in enumerate(zip(wedges, contagem_final.values)):
-        # Calcular o ângulo central
-        ang = (wedge.theta2 - wedge.theta1) / 2. + wedge.theta1
-        y = np.sin(np.deg2rad(ang))
-        x = np.cos(np.deg2rad(ang))
+        # Calcular percentual
+        percentual = 100 * size / sum(sizes)
 
-        horizontalalignment = {-1: "right", 1: "left"}[int(np.sign(x))]
+        # Adicionar texto com valor absoluto e percentual
+        ax.text(x, y, f'{size}\n({percentual:.1f}%)',
+                ha='center', va='center',
+                fontsize=13,
+                color='black')
 
-        # Posição final (Raio*X, Raio*Y)
-        ax.text(OUTER_RADIUS * x, OUTER_RADIUS * y,
-                f"{value}\n({value/total_usuarios*100:.1f}%)",
-                ha=horizontalalignment,
-                va="center",
-                fontsize=10,
-                color='black'
-        )
+    # Adicionar título
+    plt.title('Distribuição de usuários por centro',
+              fontsize=20)
 
-    # Configurar a legenda em um bloco separado à direita
-    # Monta a legenda com o detalhamento de 'Outros'
-    legend_labels = []
-    for label, value in contagem_final.items():
-        if label == 'Outros':
-            # Adiciona a lista de centros agrupados com suas contagens
-            legend_labels.append(f"{label} ({value}) - Centros: {nomes_detalhados_str}")
-        else:
-            legend_labels.append(f"{label} ({value})")
-
-    ax.legend(
-        wedges,
+    # Adicionar legenda
+    plt.legend(
         legend_labels,
-        title="Centros (Usuários)",
-        loc="center left",
-        bbox_to_anchor=(1, 0.5), # Posiciona na borda direita
-        fontsize=10
+        title='Centros (Usuários)',
+        loc='center left',
+        bbox_to_anchor=(1, 0, 0.5, 1),
+        fontsize=12,
+        title_fontsize=14
     )
 
-    # Configurações finais
-    ax.set_title('Distribuição de Usuários por Centro', fontsize=16, y= 1.1)
-    ax.axis('equal') # Garante que o gráfico seja um círculo
     plt.tight_layout()
 
     # Salvar o gráfico
@@ -198,7 +203,7 @@ CORES_DISTINTAS = [
 # Geração dos Gráficos (Chamadas à função)
 
 # Gráfico 1: Tempo Médio de Espera
-plot_grafico_linha(
+criar_grafico_linha(
     df_ocupacao_mensal,
     'Tempo Médio de Espera (Horas)',
     'Tempo Médio de Espera (h)',
@@ -208,7 +213,7 @@ plot_grafico_linha(
 )
 
 # Gráfico 2: Tempo Médio de Execução
-plot_grafico_linha(
+criar_grafico_linha(
     df_ocupacao_mensal,
     'Tempo Médio de Execução (Horas)',
     'Tempo Médio de Execução (h)',
@@ -218,7 +223,7 @@ plot_grafico_linha(
 )
 
 # Gráfico 3: Número de Jobs
-plot_grafico_linha(
+criar_grafico_linha(
     df_ocupacao_mensal,
     'Número de Jobs',
     'Número de Jobs',
@@ -228,7 +233,7 @@ plot_grafico_linha(
 )
 
 # Gráfico 4: Distribuição de Usuários por Centro
-plot_grafico_pizza(
+criar_grafico_pizza(
     df_usuarios_centro,
     CORES_DISTINTAS,
     'grafico_usuarios_centro.png'
