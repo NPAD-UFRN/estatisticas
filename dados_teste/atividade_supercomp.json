@@ -1,0 +1,14 @@
+[
+  { "mes": "11-2024", "ocioso": 34, "utilizado": 50, "inativo": 16 },
+  { "mes": "12-2024", "ocioso": 45, "utilizado": 38, "inativo": 17 },
+  { "mes": "01-2025", "ocioso": 28, "utilizado": 61, "inativo": 11 },
+  { "mes": "02-2025", "ocioso": 53, "utilizado": 28, "inativo": 19 },
+  { "mes": "03-2025", "ocioso": 25, "utilizado": 64, "inativo": 11 },
+  { "mes": "04-2025", "ocioso": 19, "utilizado": 73, "inativo": 8 },
+  { "mes": "05-2025", "ocioso": 50, "utilizado": 33, "inativo": 17 },
+  { "mes": "06-2025", "ocioso": 41, "utilizado": 40, "inativo": 19 },
+  { "mes": "07-2025", "ocioso": 31, "utilizado": 55, "inativo": 14 },
+  { "mes": "08-2025", "ocioso": 62, "utilizado": 21, "inativo": 17 },
+  { "mes": "09-2025", "ocioso": 24, "utilizado": 67, "inativo": 9 },
+  { "mes": "10-2025", "ocioso": 38, "utilizado": 45, "inativo": 17 }
+]
