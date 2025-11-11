@@ -57,11 +57,8 @@ def fetch_report(start_date, end_date):
                 continue
 
             tres_name = parts[1].strip()
-            json_key = ""
 
-            if tres_name == "cpu":
-                json_key = "cpu"
-            else:
+            if tres_name != "cpu":
                 continue
 
             allocated = float(parts[2].replace('%', ''))
@@ -76,11 +73,9 @@ def fetch_report(start_date, end_date):
 
             used, idle_val, down_val = round_to_100([used_f, idle_f, down_f])
 
-            month_report[json_key] = {
-                "utilizado": used,
-                "ocioso": idle_val,
-                "inativo": down_val
-            }
+            month_report["utilizado"] = used
+            month_report["ocioso"] = idle_val
+            month_report["inativo"] = down_val
 
         if len(month_report.keys()) == 1:
             print("Warning: No TRES data (cpu) found for {}. Skipping.".format(start_date.strftime('%m-%Y')), file=sys.stderr)
@@ -116,7 +111,7 @@ def main():
 
     reports.reverse()
 
-    output_filename = "utilizacao_cpu_cluster.json"
+    output_filename = "metrics.json"
     with open(output_filename, 'w', encoding='utf-8') as f:
         json.dump(reports, f, indent=2, ensure_ascii=False)
 
