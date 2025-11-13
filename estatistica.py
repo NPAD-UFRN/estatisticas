@@ -67,75 +67,72 @@ def simplificar_nome(nome):
 def criar_grafico_pizza(df, cores, arquivo_saida):
     """Gera e salva um gráfico de pizza para a distribuição de usuários por centro."""
     
-    # Contar usuários por centro
-    contagem = df['centro'].value_counts()
-
     # Separar centros principais (>5 usuários) e outros (<=5 usuários)
-    centros_principais = contagem[contagem > 5]
-    centros_outros = contagem[contagem <= 5]
-
-    # Criar série final com "Outros" se houver centros pequenos
-    if len(centros_outros) > 0:
-        outros_total = centros_outros.sum()
-        contagem_final = pd.concat([
-            centros_principais,
-            pd.Series({'Outros': outros_total})
-        ])
+    df_principais = df[df['usuarios'] > 5]
+    df_outros = df[df['usuarios'] <= 5]
+    
+    # Criar dicionário final com "Outros" se houver centros pequenos
+    if len(df_outros) > 0:
+        outros_total = df_outros['usuarios'].sum()
+        # Criar série com centros principais
+        contagem_final = pd.Series(df_principais['usuarios'].values, 
+                                   index=df_principais['centro'].values)
+        # Adicionar "Outros"
+        contagem_final['Outros'] = outros_total
     else:
-        contagem_final = centros_principais
-
+        contagem_final = pd.Series(df_principais['usuarios'].values, 
+                                   index=df_principais['centro'].values)
+    
     labels = []
     sizes = []
-
     for centro, count in contagem_final.items():
-        if centro == 'Outros':
-            labels.append('Outros')
-        else:
-            labels.append(simplificar_nome(centro))
+        labels.append(centro)
         sizes.append(count)
-
+    
     # Criar labels para a legenda com formato: "SIGLA (N)"
     legend_labels = []
     for label, size in zip(labels, sizes):
         if label == 'Outros':
             centros_info = []
-            for centro, count in centros_outros.items():
-                centros_info.append(f'{simplificar_nome(centro)} ({count})')
+            for _, row in df_outros.iterrows():
+                centro = row['centro']
+                count = row['usuarios']
+                centros_info.append(f'{centro} ({count})')
             centros_str = ',\n'.join(centros_info)
             legend_labels.append(f'{label} ({size}):\n{centros_str}')
         else:
             legend_labels.append(f'{label} ({size})')
-
+    
     # Configurar figura
     fig, ax = plt.subplots(figsize=(15, 10))
-
+    
     # Criar gráfico de pizza
     wedges, texts = ax.pie(
         sizes,
         wedgeprops={'edgecolor': 'black', 'linewidth': 1},
         colors=cores
     )
-
+    
     # Adicionar valores absolutos e percentuais
     for i, (wedge, size) in enumerate(zip(wedges, sizes)):
         # Calcular ângulo e posição
         ang = (wedge.theta2 - wedge.theta1) / 2 + wedge.theta1
         x = 1.1 * wedge.r * np.cos(np.radians(ang))
         y = 1.1 * wedge.r * np.sin(np.radians(ang))
-
+        
         # Calcular percentual
         percentual = 100 * size / sum(sizes)
-
+        
         # Adicionar texto com valor absoluto e percentual
         ax.text(x, y, f'{size}\n({percentual:.1f}%)',
                 ha='center', va='center',
                 fontsize=13,
                 color='black')
-
+    
     # Adicionar título
     plt.title('Distribuição de usuários por centro',
               fontsize=20)
-
+    
     # Adicionar legenda
     plt.legend(
         legend_labels,
@@ -145,13 +142,14 @@ def criar_grafico_pizza(df, cores, arquivo_saida):
         fontsize=12,
         title_fontsize=14
     )
-
+    
     plt.tight_layout()
-
+    
     # Salvar o gráfico
     plt.savefig(f"graficos/{arquivo_saida}", dpi=300, bbox_inches='tight')
     print(f"Gráfico 'Distribuição de Usuários por Centro' salvo como '{arquivo_saida}'.")
     plt.close()
+
 
 def criar_grafico_barras(df, titulo, arquivo_saida, xlabel='Mês', ylabel='Porcentagem (%)'):
     """ Cria um gráfico de barras empilhadas para a atividade do supercomputador. """
