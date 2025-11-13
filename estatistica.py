@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.ticker as ticker
 
-def criar_grafico_linha(df, metric_cols, y_label, titulo, arq_saida, add_sufixo_h=False, col_data='data_mensal'):
+def criar_grafico_linha(df, metrica_col, y_label, titulo, arquivo_saida, add_sufixo_h=False):
     """Gera e salva um gráfico de linha para a métrica especificada."""
     
     # Cria uma nova figura para cada gráfico
@@ -18,48 +18,23 @@ def criar_grafico_linha(df, metric_cols, y_label, titulo, arq_saida, add_sufixo_
             # Formata o valor com uma casa decimal e adiciona o ' h'
             return f'{x:.1f} h'
         ax.yaxis.set_major_formatter(ticker.FuncFormatter(hours_formatter))
-    
-    # Configuração de cores
-    prop_cycle = plt.rcParams['axes.prop_cycle']
-    colors = prop_cycle.by_key()['color']
-    color_cycle = plt.cycler(color=colors)
-    plt.gca().set_prop_cycle(color_cycle)
 
-    if isinstance(metric_cols, str):
-        particoes = df['particao'].unique()
-        for particao in particoes:
-            # Filtra e garante a ordenação por data
-            subset = df[df['particao'] == particao].sort_values(by='data_mensal')
-            
-            if not subset.empty:
-                plt.plot(
-                    subset['data_mensal'],
-                    subset[metric_cols],
-                    marker='o',
-                    linestyle='-',
-                    linewidth=2,
-                    markersize=5,
-                    label=particao
-                )
-    else:
-        # Garantir que metric_cols é uma lista
-        if isinstance(metric_cols, str):
-            metric_cols = [metric_cols]
+    particoes = df['particao'].unique()
+    for particao in particoes:
+        # Filtra e garante a ordenação por data
+        subset = df[df['particao'] == particao].sort_values(by='data_mensal')
         
-        # Ordenar DataFrame por data
-        df_sorted = df.sort_values(by=col_data)
-        
-        # Plotar cada coluna
-        for metric_col in metric_cols:
+        if not subset.empty:
             plt.plot(
-                df_sorted[col_data],
-                df_sorted[metric_col],
+                subset['data_mensal'],
+                subset[metrica_col],
                 marker='o',
                 linestyle='-',
                 linewidth=2,
                 markersize=5,
-                label=metric_col.capitalize()
+                label=particao
             )
+    
 
     # Configurações do gráfico
     plt.title(titulo, fontsize=16, y=1.2)
@@ -76,16 +51,12 @@ def criar_grafico_linha(df, metric_cols, y_label, titulo, arq_saida, add_sufixo_
         plt.xticks(x_labels, rotation=45, ha='right')
         
     # Posiciona a legenda fora do gráfico
-    if isinstance(metric_cols, str):
-        plt.legend(loc='lower center', bbox_to_anchor=(0.5, 1.05), 
-               ncol=len(particoes) // 2 + 1, fontsize=10)
-    else:
-        plt.legend(loc='lower center', bbox_to_anchor=(0.5, 1.05), 
-               ncol=len(metric_cols), fontsize=10)
-
+    plt.legend(loc='lower center', bbox_to_anchor=(0.5, 1.05), 
+            ncol=len(particoes) // 2 + 1, fontsize=10)
+    
     plt.tight_layout()
-    plt.savefig(f"graficos/{arq_saida}", dpi=300, bbox_inches='tight')
-    print(f"Gráfico '{titulo}' salvo como '{arq_saida}'.")
+    plt.savefig(f"graficos/{arquivo_saida}", dpi=300, bbox_inches='tight')
+    print(f"Gráfico '{titulo}' salvo como '{arquivo_saida}'.")
     plt.close()
 
 # Simplificar os nomes dos centros
@@ -93,7 +64,7 @@ def simplificar_nome(nome):
     if ' - ' in nome:
         return nome.split(' - ')[-1].replace('.', '')
     
-def criar_grafico_pizza(df, cores, arq_saida):
+def criar_grafico_pizza(df, cores, arquivo_saida):
     """Gera e salva um gráfico de pizza para a distribuição de usuários por centro."""
     
     # Contar usuários por centro
@@ -178,8 +149,53 @@ def criar_grafico_pizza(df, cores, arq_saida):
     plt.tight_layout()
 
     # Salvar o gráfico
-    plt.savefig(f"graficos/{arq_saida}", dpi=300, bbox_inches='tight')
-    print(f"Gráfico 'Distribuição de Usuários por Centro' salvo como '{arq_saida}'.")
+    plt.savefig(f"graficos/{arquivo_saida}", dpi=300, bbox_inches='tight')
+    print(f"Gráfico 'Distribuição de Usuários por Centro' salvo como '{arquivo_saida}'.")
+    plt.close()
+
+def criar_grafico_barras(df, titulo, arquivo_saida, xlabel='Mês', ylabel='Porcentagem (%)'):
+    """ Cria um gráfico de barras empilhadas para a atividade do supercomputador. """
+    
+    # Cria a figura
+    fig, ax = plt.subplots(figsize=(14, 7))
+    
+    # Prepara os dados para o gráfico
+    categorias = ['ocioso', 'utilizado', 'inativo']
+    meses = df['mes'].tolist()
+    
+    # Cria as barras empilhadas
+    bottom = [0] * len(df)
+    
+    for i, categoria in enumerate(categorias):
+        valores = df[categoria].tolist()
+        ax.bar(meses, valores, bottom=bottom, label=categoria.capitalize(), edgecolor='white', linewidth=0.5)
+        # Atualiza o bottom para a próxima camada
+        bottom = [bottom[j] + valores[j] for j in range(len(valores))]
+    
+    # Configurações do gráfico
+    ax.set_xlabel(xlabel, fontsize=12)
+    ax.set_ylabel(ylabel, fontsize=12)
+    ax.set_title(titulo, fontsize=14, y=1.10)
+    
+    # Legenda centralizada abaixo do título
+    ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.08), 
+              ncol=3, framealpha=0.9, frameon=True)
+    
+    # Rotaciona os rótulos do eixo X para melhor legibilidade
+    plt.xticks(rotation=45, ha='right')
+    
+    # Adiciona grade para facilitar a leitura
+    ax.grid(axis='y', alpha=0.3, linestyle='--', linewidth=0.5)
+    ax.set_axisbelow(True)
+    
+    # Ajusta o layout para evitar cortes
+    plt.tight_layout()
+    
+    # Salva o gráfico
+    plt.savefig(f"graficos/{arquivo_saida}", dpi=300, bbox_inches='tight')
+    print(f"Gráfico '{titulo}' salvo como '{arquivo_saida}'")
+    
+    # Fecha a figura para liberar memória
     plt.close()
 
 # ----------------- EXECUÇÃO PRINCIPAL -----------------
@@ -204,12 +220,6 @@ df_ocupacao_mensal['Número de Jobs'] = df_ocupacao_mensal['jobs']
 
 # Ordenar o DataFrame pela data
 df_ocupacao_mensal = df_ocupacao_mensal.sort_values(by='data_mensal')
-
-# Preparação dos Dados de Atividade do Supercomputador
-# Converter coluna 'mes' de MM-YYYY para formato datetime e criar data_mensal ordenável
-df_atividade['data_mensal'] = pd.to_datetime(df_atividade['mes'], format='%m-%Y').dt.strftime('%Y-%m')
-# Manter 'mes' original para exibição
-df_atividade['mes_display'] = df_atividade['mes']
 
 # Lista de cores distintas para o gráfico de pizza
 CORES_DISTINTAS = [
@@ -236,47 +246,45 @@ CORES_DISTINTAS = [
 # Gráfico 1: Tempo Médio de Espera
 criar_grafico_linha(
     df=df_ocupacao_mensal,
-    metric_cols='Tempo Médio de Espera (Horas)',
+    metrica_col='Tempo Médio de Espera (Horas)',
     y_label='Tempo Médio de Espera (h)',
     titulo='Tempo Médio de Espera por Partição (Mensal)',
-    arq_saida='grafico_tempo_espera.png',
+    arquivo_saida='tempo_espera.png',
     add_sufixo_h=True
 )
 
 # Gráfico 2: Tempo Médio de Execução
 criar_grafico_linha(
     df=df_ocupacao_mensal,
-    metric_cols='Tempo Médio de Execução (Horas)',
+    metrica_col='Tempo Médio de Execução (Horas)',
     y_label='Tempo Médio de Execução (h)',
     titulo='Tempo Médio de Execução por Partição (Mensal)',
-    arq_saida='grafico_tempo_execucao.png',
+    arquivo_saida='tempo_execucao.png',
     add_sufixo_h=True
 )
 
 # Gráfico 3: Número de Jobs
 criar_grafico_linha(
     df=df_ocupacao_mensal,
-    metric_cols='Número de Jobs',
+    metrica_col='Número de Jobs',
     y_label='Número de Jobs',
     titulo='Número de Jobs por Partição (Mensal)',
-    arq_saida='grafico_numero_jobs.png',
+    arquivo_saida='numero_jobs.png',
     add_sufixo_h=False
 )
 
 # Gráfico 4: Distribuição de Usuários por Centro
 criar_grafico_pizza(
     df=df_usuarios_centro,
-    arq_saida='grafico_usuarios_centro.png',
+    arquivo_saida='usuarios_centro.png',
     cores=CORES_DISTINTAS
 )
 
 # Gráfico 5: Atividade do supercomputador, últimos 12 meses
-criar_grafico_linha(
+criar_grafico_barras(
     df=df_atividade,
-    metric_cols=['ocioso', 'utilizado', 'inativo'],  # Lista de colunas
-    y_label='Porcentagem (%)',
-    titulo='Atividade do supercomputador, últimos 12 meses',
-    arq_saida='grafico_atividade_supercomp.png',
-    add_sufixo_h=False,
-    col_data='data_mensal'
+    titulo="Atividade do supercomputador, últimos 12 meses",
+    arquivo_saida="atividade_supercomp.png",
+    xlabel='Mês',
+    ylabel='Porcentagem (%)'
 )
