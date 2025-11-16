@@ -151,7 +151,7 @@ def criar_grafico_pizza(df, cores, arquivo_saida):
     plt.close()
 
 
-def criar_grafico_barras(df, titulo, arquivo_saida, xlabel='Mês', ylabel='Porcentagem (%)'):
+def criar_grafico_barras(df, titulo, subtitulo, arquivo_saida, xlabel='Mês', ylabel='Porcentagem (%)'):
     """ Cria um gráfico de barras empilhadas para a atividade do supercomputador. """
     
     # Cria a figura
@@ -173,16 +173,17 @@ def criar_grafico_barras(df, titulo, arquivo_saida, xlabel='Mês', ylabel='Porce
     # Configurações do gráfico
     ax.set_xlabel(xlabel, fontsize=12)
     ax.set_ylabel(ylabel, fontsize=12)
-    ax.set_title(titulo, fontsize=14, y=1.10)
+    plt.suptitle(titulo, fontsize=16, y=0.96)
+    plt.title(subtitulo, fontsize=12, y=1.1)
+    
     
     # Legenda centralizada abaixo do título
     ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.08), 
               ncol=3, framealpha=0.9, frameon=True)
     
-    # Rotaciona os rótulos do eixo X para melhor legibilidade
+    # Rotaciona os rótulos do eixo X
     plt.xticks(rotation=45, ha='right')
     
-    # Adiciona grade para facilitar a leitura
     ax.grid(axis='y', alpha=0.3, linestyle='--', linewidth=0.5)
     ax.set_axisbelow(True)
     
@@ -282,6 +283,7 @@ criar_grafico_pizza(
 criar_grafico_barras(
     df=df_atividade,
     titulo="Atividade do supercomputador, últimos 12 meses",
+    subtitulo="Percentual de utilização de todas as CPUs de todos os nós do supercomputador",
     arquivo_saida="atividade_supercomp.png",
     xlabel='Mês',
     ylabel='Porcentagem (%)'
