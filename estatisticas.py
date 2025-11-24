@@ -9,6 +9,7 @@ import os
 import requests
 from urllib.parse import urlparse
 from dotenv import load_dotenv
+from io import StringIO
 
 # Carregar variáveis de ambiente do arquivo .env, se existir
 load_dotenv()
@@ -41,7 +42,7 @@ def carregar_dados_json(var_ambiente, arquivo_padrao):
                 print(f"Baixando dados de: {fonte}")
                 response = requests.get(fonte, timeout=30)
                 response.raise_for_status()
-                df = pd.read_json(response.text)
+                df = pd.read_json(StringIO(response.text))
                 print(f"SUCESSO: Dados carregados de URL: {fonte}")
             except requests.exceptions.RequestException as e:
                 print(f"ERRO: Falha ao baixar dados da URL {fonte}. Erro: {e}")
