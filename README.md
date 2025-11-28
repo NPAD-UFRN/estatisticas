@@ -44,3 +44,18 @@ O arquivo [consulta_usuarios.sql](consulta_usuarios.sql) contém os comandos SQL
 
 Na pasta `dados_teste` contém os arquivos JSON
 necessários para a execução do script. Esses arquivos podem ser copiados para a pasta `dados` para que possam ser executados no script.
+
+## Variáveis de Ambiente
+
+Esse projeto utiliza de variáveis de ambiente para obtenção dos dados necessários para a execução do scritp e criação dos gráficos das estatísticas do NPAD. Caso as variavéis não sejam definidas o script por padrão busca os arquivos JSON da pasta `dados`.
+Deve ser criado um arquivo `.env` no diretório do projeto com as variáveis de ambiente, que podem ser URLs ou caminhos de arquivos locais. Elas tem a seguinte definição:
+
+```
+FONTE_<nome_do_arquivo> = "adicionar_aqui_a_url_ou_caminho_do_arquivo_local"
+
+Exemplo:
+FONTE_OCUPACAO_MENSAL = "https://<URL_fonte>/ocupacao_mensal.json"
+FONTE_USUARIOS_CENTRO = "<PATH_local>/usuarios_centro.json"
+```
+
+Pode ser utilizado o arquivo `env.dev` deixado nesse repositório como exemplo dos nomes das variáveis de ambiente utilizadas no script.
