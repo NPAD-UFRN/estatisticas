@@ -87,8 +87,9 @@ def run_sacct(query):
         result = subprocess.run(
             query,
             shell=True,
-            capture_output=True,
-            text=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            universal_newlines=True,
             timeout=300,
         )
         if result.returncode != 0:
