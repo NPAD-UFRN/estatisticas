@@ -1,4 +1,21 @@
-dados
-graficos
-.venv
+# Virtual environments
+venv/
+.venv/
+
+# Bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
 .env
+.env.*
+
+# Generated output
+dados/
+graficos/
+
+# OS files
+.DS_Store
+Thumbs.db
