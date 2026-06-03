@@ -1,0 +1,13 @@
+.git
+.gitignore
+__pycache__/
+*.swp
+*.pyc
+venv/
+.venv/
+.env
+.env.*
+dados/
+graficos/
+sacct.txt
+README.md

@@ -1,0 +1,10 @@
+services:
+  estatisticas:
+    build: .
+    working_dir: /app
+    volumes:
+      - ./graficos:/app/graficos
+    # Exemplo de uso:
+    #   docker compose run estatisticas python estatisticas.py
+    #   docker compose run estatisticas python ocupacao_mensal.py
+    #   docker compose run estatisticas python atividade_supercomp.py
