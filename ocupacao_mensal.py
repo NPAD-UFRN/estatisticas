@@ -118,13 +118,13 @@ def query_jobs_by_month(ano, mes):
     Query sacct para jobs que começaram a rodar neste mês.
     Retorna lista de dicts com job_id, start, submit, end, partition.
     """
-    # Converter para string MMDDYYYY para o sacct
-    data_inicio = f"{mes:02d}01{ano}"
+    # Converter para string YYYYMMDD para o sacct
+    data_inicio = f"{ano}{mes:02d}01"
 
     if mes == 12:
-        data_fim = f"0101{ano + 1}"
+        data_fim = f"{ano + 1}0101"
     else:
-        data_fim = f"{mes + 1:02d}01{ano}"
+        data_fim = f"{ano}{mes + 1:02d}01"
 
     # Query sacct para jobs que começaram neste mês
     query = (
