@@ -136,7 +136,10 @@ def executar_comando_sacct(data_inicio, data_fim):
         "--noheader"
     ]
     try:        
-        resultado = subprocess.run(CMD, capture_output=True, text=True, check=True)
+        #resultado = subprocess.run(CMD, capture_output=True, text=True, check=True)
+        resultado = subprocess.run(CMD, stdout=subprocess.PIPE,
+                                   stderr=subprocess.PIPE, text=True,
+                                   check=True)
         linhas = resultado.stdout.strip().split("\n")
         registros = []
         for linha in linhas:
@@ -222,3 +225,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
