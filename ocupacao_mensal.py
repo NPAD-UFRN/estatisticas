@@ -136,11 +136,14 @@ def executar_comando_sacct(data_inicio, data_fim):
         "--noheader"
     ]
     try:        
-        #resultado = subprocess.run(CMD, capture_output=True, text=True, check=True)
+        #o arg text nao existe em python 3.6
+        #resultado = subprocess.run(CMD, stdout=subprocess.PIPE,
+        #                           stderr=subprocess.PIPE, text=True,
+        #                           check=True)
         resultado = subprocess.run(CMD, stdout=subprocess.PIPE,
-                                   stderr=subprocess.PIPE, text=True,
-                                   check=True)
-        linhas = resultado.stdout.strip().split("\n")
+                                   stderr=subprocess.PIPE, check=True)
+        #linhas = resultado.stdout.strip().split("\n")
+        linhas = resultado.stdout.decode("utf-8").strip().split("\n")
         registros = []
         for linha in linhas:
             partes = linha.split("|")
