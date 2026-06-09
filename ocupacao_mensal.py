@@ -150,7 +150,6 @@ def executar_comando_sacct(data_inicio, data_fim):
             if len(partes) != 5:
                 continue
             job_id, partition, submit, start, end = partes
-            job_id = int(job_id)
             registros.append(SacctRecord(job_id, partition, submit, start, end))
         return registros
     except subprocess.CalledProcessError as e:
