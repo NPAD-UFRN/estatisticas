@@ -5,6 +5,8 @@ import json
 import datetime
 import sys
 
+# TODO: alterar para emitir o json na saida padrao
+
 def round_to_100(values):
     int_parts = [int(v) for v in values]
     remainders = [(values[i] - int_parts[i], i) for i in range(len(values))]
@@ -45,7 +47,7 @@ def fetch_report(start_date, end_date):
         month_report = {"mes": start_date.strftime('%m-%Y')}
 
         if not lines or all(not line.strip() for line in lines):
-            print("Warning: No data returned for {}. Skipping.".format(start_date.strftime('%m-%Y')), file=sys.stderr)
+            #print("Warning: No data returned for {}. Skipping.".format(start_date.strftime('%m-%Y')), file=sys.stderr)
             return None
 
         for line in lines:
@@ -78,7 +80,7 @@ def fetch_report(start_date, end_date):
             month_report["inativo"] = down_val
 
         if len(month_report.keys()) == 1:
-            print("Warning: No TRES data (cpu) found for {}. Skipping.".format(start_date.strftime('%m-%Y')), file=sys.stderr)
+            #print("Warning: No TRES data (cpu) found for {}. Skipping.".format(start_date.strftime('%m-%Y')), file=sys.stderr)
             return None
 
         return month_report
@@ -92,7 +94,7 @@ def fetch_report(start_date, end_date):
         return None
 
 def main():
-    print("Iniciando coleta de dados de utilização dos últimos 12 meses...")
+    #print("Iniciando coleta de dados de utilização dos últimos 12 meses...")
 
     today = datetime.date(2025, 11, 6)
     current_date = today.replace(day=1) - datetime.timedelta(days=1)
@@ -110,12 +112,13 @@ def main():
         current_date = start_of_month - datetime.timedelta(days=1)
 
     reports.reverse()
+    json.dump(reports, sys.stdout, indent=2, ensure_ascii=False)
 
-    output_filename = "metrics.json"
-    with open(output_filename, 'w', encoding='utf-8') as f:
-        json.dump(reports, f, indent=2, ensure_ascii=False)
+    #output_filename = "metrics.json"
+    #with open(output_filename, 'w', encoding='utf-8') as f:
+    #    json.dump(reports, f, indent=2, ensure_ascii=False)
 
-    print("Relatório salvo com sucesso em: {}".format(output_filename))
+    #print("Relatório salvo com sucesso em: {}".format(output_filename))
 
 if __name__ == "__main__":
     main()
