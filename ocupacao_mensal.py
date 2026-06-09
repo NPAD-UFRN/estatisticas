@@ -208,9 +208,7 @@ def json_serializar(record):
         "particao": record.particao,
         "jobs": record.jobs,
         "media_espera_segundos": record.media_espera_segundos,
-        "media_espera_formatado": record.media_espera_formatado,
         "media_execucao_segundos": record.media_execucao_segundos,
-        "media_execucao_formatado": record.media_execucao_formatado
     }
 
 def json_serializar_lista(records):
