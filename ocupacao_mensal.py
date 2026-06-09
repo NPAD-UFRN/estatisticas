@@ -69,8 +69,8 @@ class OcupacaoRecord:
         self.media_execucao_formatado = format_seconds(media_execucao_segundos)
         self.espera_count = 0
         self.execucao_count = 0
-        self.espera_total = 0
-        self.execucao_total = 0
+        self.espera_total = 0.0
+        self.execucao_total = 0.0
 
 def format_seconds(segundos):
     """Formata segundos como string legível: 'Xd Yh Zm Ws'"""
@@ -110,7 +110,7 @@ def parse_datetime(dt_str):
             continue
     return None
 
-def calcular_datas_inicio_fim(hoje)
+def calcular_datas_inicio_fim(hoje):
     """Recebe a data de hoje e retorna duas datas, de inicio e fim.
     Sejam mh o mês atual, ya o ano atual e yp o ano anterior.
     Então a data de início é 1/mh/yp e a data de fim é 1/mh/ya.
@@ -156,7 +156,7 @@ def processar_registros_sacct(registros):
     com as estatísticas calculadas.
     """
     # Estrutura para acumular dados por (ano, mes, particao)
-    dados = defaultdict(lambda: OcupacaoRecord(0, 0, "", 0, 0, 0))
+    dados = defaultdict(lambda: OcupacaoRecord(0, 0, "", 0, 0.0, 0.0))
 
     for rec in registros:
         if rec.partition not in PARTICOES:
@@ -167,7 +167,7 @@ def processar_registros_sacct(registros):
         mes = rec.submit.month
         chave = (ano, mes, rec.partition)
         if chave not in dados:
-            dados[chave] = OcupacaoRecord(ano, mes, rec.partition, 0, 0, 0)
+            dados[chave] = OcupacaoRecord(ano, mes, rec.partition, 0, 0.0, 0.0)
         record = dados[chave]
         record.jobs += 1
         if rec.start and rec.submit:
@@ -182,13 +182,15 @@ def processar_registros_sacct(registros):
     # Calcular médias
     for record in dados.values():
         if record.espera_count > 0:
-            record.media_espera_segundos = record.espera_total / record.espera_count
+            record.media_espera_segundos = float(record.espera_total /
+                                                 record.espera_count)
         else:
             record.media_espera_segundos = 0
         if record.execucao_count > 0:
-            record.media_execucao_segundos = record.execucao_total / record.execucao_count
+            record.media_execucao_segundos = float(record.execucao_total /
+                                                   record.execucao_count)
         else:
-            record.media_execucao_segundos = 0
+            record.media_execucao_segundos = 0.0
 
     return list(dados.values())
     
