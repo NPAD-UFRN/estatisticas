@@ -50,6 +50,9 @@ Exemplos de registros de saída:
 {"ano": 2025, "mes": 7, "particao": "intel-256", "jobs": 755, "media_espera_segundos": 25599, "media_espera_formatado": "7h 6m 39s", "media_execucao_segundos": 17950, "media_execucao_formatado": "4h 59m 10s"}
 ,
 {"ano": 2025, "mes": 7, "particao": "intel-512", "jobs": 1993, "media_espera_segundos": 21912, "media_espera_formatado": "6h 5m 12s", "media_execucao_segundos": 9549, "media_execucao_formatado": "2h 39m 9s"}
+
+Ignorar os campos "formatado". Nessa nova versão, eles não aparecem mais.
+
     """
 class OcupacaoRecord:
     def __init__(self, ano, mes, particao, jobs, media_espera_segundos, media_execucao_segundos):
@@ -61,12 +64,10 @@ class OcupacaoRecord:
         """Tempo médio desde a submissão até o início da execução, em segundos, 
         para todo job que foi submetido no mês e partição correspondentes."""
         self.media_espera_segundos = media_espera_segundos
-        self.media_espera_formatado = format_seconds(media_espera_segundos)
         """Tempo médio desde o início da execução até o término, em segundos,
         para todo job que iniciou a execução no mês e partição correspondentes.
         """
         self.media_execucao_segundos = media_execucao_segundos
-        self.media_execucao_formatado = format_seconds(media_execucao_segundos)
         self.espera_count = 0
         self.execucao_count = 0
         self.espera_total = 0.0
