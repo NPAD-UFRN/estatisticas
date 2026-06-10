@@ -13,6 +13,9 @@ Comando Slurm usado:
   sacct -X -P -S "$START_DATE" -E "$END_DATE" \
           --format=JobID,Partition,Submit,Start,end --noheader
 
+Se receber um argumento, será o arquivo de entrada, com o mesmo formato do
+sacct, para processar localmente.
+
 Este script deve funcionar com python 3.6 ou superior.
 """
 
@@ -157,6 +160,18 @@ def executar_comando_sacct(data_inicio, data_fim):
         print(f"Erro ao executar sacct: {e}", file=sys.stderr)
         return []
 
+
+def parsear_saida_sacct(linhas):
+    """Parseia a saída do sacct e retorna uma lista de objetos SacctRecord."""
+    registros = []
+    for linha in linhas:
+        partes = linha.split("|")
+        if len(partes) != 5:
+            continue
+        job_id, partition, submit, start, end = partes
+        registros.append(SacctRecord(job_id, partition, submit, start, end))
+    return registros
+
 def processar_registros_sacct(registros):
     """Processa a lista de SacctRecord e retorna uma lista de OcupacaoRecord
     com as estatísticas calculadas.
@@ -217,9 +232,16 @@ def json_serializar_lista(records):
     
 
 def main():
-    hoje = datetime.now()
-    data_inicio, data_fim = calcular_datas_inicio_fim(hoje)
-    registros_sacct = executar_comando_sacct(data_inicio, data_fim)
+    #uma saída já gerada do sacct pode ser passada como argumento
+    if len(sys.argv) > 1:
+        with open(sys.argv[1], "r") as f:
+            linhas = f.read().strip().split("\n")
+        registros_sacct = parsear_saida_sacct(linhas)
+    else: 
+        hoje= datetime.now()
+        data_inicio, data_fim = calcular_datas_inicio_fim(hoje)
+        registros_sacct = executar_comando_sacct(data_inicio, data_fim)
+
     ocupacao_records = processar_registros_sacct(registros_sacct)
     json_output = json.dumps(json_serializar_lista(ocupacao_records), indent=4)
     print(json_output)
