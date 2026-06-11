@@ -5,15 +5,15 @@
 #sacct -X -P -S "$START_DATE" -E "$END_DATE" \
 #          --format=JobID,Partition,Submit,Start,end --noheader
 #Seja o mês de hoje Mh e seja o ano de hoje Ah, as datas são:
-#START_DATE = "Mh/01/Ah-1 00:00:00"
-#END_DATE = "Mh/01/Ah 00:00:00"
+#START_DATE = "(Ah-1)-Mh-01 00:00:00"
+#END_DATE = "Ah-Mh-01 00:00:00"
 
 #Obter o mês e ano atuais
 MONTH=$(date +%m)
 YEAR=$(date +%Y)
 #Calcular as datas de início e fim
-START_DATE="${MONTH}/01/$((YEAR-1)) 00:00:00"
-END_DATE="${MONTH}/01/${YEAR} 00:00:00"
+START_DATE="$((YEAR-1))-${MONTH}-01 00:00:00"
+END_DATE="${YEAR}-${MONTH}-01 00:00:00"
 #Executar o comando sacct e salvar a saída em um arquivo
 sacct -X -P -S "$START_DATE" -E "$END_DATE" \
     --format=JobID,Partition,Submit,Start,end --noheader
